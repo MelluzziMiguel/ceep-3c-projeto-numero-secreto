@@ -78,7 +78,7 @@ body::before {
     border-radius: 16px;
     background-color: #FFF;
     border: none;
-    color: #1875E8;
+    color: #072242;
     padding: 2rem;
     font-size: 24px;
     font-weight: 700;
@@ -107,7 +107,7 @@ button {
 }
 
 button:disabled {
-    background-color: gray;
+    background-color: rgb(102, 33, 33);
 }
 
 @media screen and (max-width: 1250px) {
